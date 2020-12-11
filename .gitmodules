@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:ajdeve/ajdeve.github.io.git
 	branch = master
+[submodule "themes/hugo-PaperMod"]
+	path = themes/hugo-PaperMod
+	url = https://github.com/ajdeve/hugo-PaperMod.git
