@@ -1,6 +1,6 @@
 ---
-title: "JDBC 환경세팅"
-date: 2020-09-15T11:30:03+00:00
+title: "Web Beginner Series 1"
+date: 2020-12-15T11:30:03+00:00
 weight: 1
 aliases: ["/web01"]
 tags: ["Web"]
