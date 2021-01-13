@@ -18,6 +18,7 @@ comments: false
 
 ## Web 기본 
 ### Web 개발 기술 
+
 1. http 프로토콜 기반의 지원 기술
 2. client단 개발 기술
     1. 화면 구성
@@ -33,9 +34,9 @@ comments: false
             1. java 기반의 웹 처리 스펙
             2. controller 
         2. JSP
-            1. java 코드 보다는 jsp 자체 tag + html tag + css + java script 위주의 화면단 처리 스펙 
-            2. java 코드 보다는 jsp 자체 tag 위주의 화면단 처리 스펙 
-            3. java의 데이터값을 브라우저 화면에 출력하게 하는 기술 
+            1. Java 코드 보다는 jsp 자체 tag + html tag + css + java script 위주의 화면단 처리 스펙 
+            2. Java 코드 보다는 jsp 자체 tag 위주의 화면단 처리 스펙 
+            3. Java의 데이터값을 브라우저 화면에 출력하게 하는 기술 
             4. 화면 처리 언어
             5. html과 가장 큰 차이점 
                 1. html은 자바 코드 활용 불가 
