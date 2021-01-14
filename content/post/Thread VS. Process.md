@@ -33,9 +33,8 @@ comments: false
 
 ### 코드 예시 
 
-public class MyThread extends Thread {
-
 ```java
+public class MyThread extends Thread {
     public void run(){
        System.out.println("MyThread running");
     }
