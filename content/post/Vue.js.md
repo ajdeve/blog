@@ -1,5 +1,5 @@
 ﻿---
-title: "Vue.js 시작"
+title: "Vue.js"
 date: 2021-01-14T11:30:03+00:00
 weight: 1
 aliases: ["/vuejs"]
