@@ -13,7 +13,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 disableShare: false
-comments: false
+comments: true
 ---
 
 ## Servlet & JSP  
