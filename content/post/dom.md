@@ -16,7 +16,6 @@ disableShare: false
 comments: false
 ---
 
-
 ## DOM (돔) 
 ### 정의
 - Document Object Model 그리고 문서 객체 모델 
