@@ -1,11 +1,11 @@
 ---
 title: "DOM vs. Virtual DOM"
-date: 2021-01-23T22:37:45+09:00
+date: 2021-01-23T11:30:03+00:00
 weight: 1
 aliases: ["/dom"]
 tags: ["Web"]
 categories: ["Web"]
-series: ["Web"]
+series: ["Front Development"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
