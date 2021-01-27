@@ -1,6 +1,6 @@
 ---
 title: "Spring Framework"
-date: 2020-01-26T11:30:03+00:00
+date: 2021-01-26T11:30:03+00:00
 weight: 1
 aliases: ["/spring"]
 tags: ["Web"]
