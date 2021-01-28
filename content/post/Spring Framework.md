@@ -23,7 +23,7 @@ comments: false
 
 
 > Rod Johnson이 2003년 개발한 Spring Framework는 JavaEE 앱을 쉽게 만들게 한다. 
-> 객체를 한곳에서 모아서 관리하며 표준화와 정형화된 코드를 짤 수 있게 하는 프레임워크!
+> 객체를 한곳에서 모아서 관리하며 표준화와 정형화된 코드를 짤 수 있게 하는 프레임워크이다.
 > 
 > Spring Framework + Business Logic (컨텐츠) = Application 
 
