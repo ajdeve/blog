@@ -53,4 +53,4 @@ let vm = new Vue({
 [v-show와 v-if](https://pa-pico.tistory.com/22)
 
 - v-show는 style = display:none; 을 설정해서 condition filtering을 통해 모든 결과중 필요한 결과를 보여주는것 
-- v-if 는 스타일 태그에 관한 변화가 아니라 필터링 된 결과만 출력 
+- v-if 는 스타일 태그에 관한 변화가 아니라 필터링 된 결과만 출력한다.
