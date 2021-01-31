@@ -57,4 +57,4 @@ Thread thread = new Thread(){
   thread.start();
 ```
 
-Thread 스타트로 소환된 thread에서 run이 실행될때 "Thread Running"이 출력됨
+Thread 스타트로 소환된 thread에서 run이 실행될때 "Thread Running"이 출력된다.
