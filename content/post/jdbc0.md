@@ -18,7 +18,7 @@ comments: false
 
 ## JDBC&JPA
 
-JDBC, JPA/Hibernate를 사용할때 제일 헷갈리는 부분을 아래와 같이 정리했다. 
+JDBC, JPA, Hibernate를 사용할때 제일 헷갈리는 부분을 아래와 같이 정리했다. 
 
 flush() : DB에 실제 쿼리를 날려 execute하는 기능이며 commit이 아니기에 DB에 반영이 되지 않는다. 
 
