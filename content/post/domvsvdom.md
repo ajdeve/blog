@@ -18,6 +18,7 @@ comments: false
 
 ## DOM (돔) 
 ### 정의
+
 - Document Object Model 그리고 문서 객체 모델이며 HTML 및 XML 문서를 위한 API이다.  
 - 이 DOM이란 트리 구조로 되어있는 객체 모델로써, Javascript가 getElementbyid()를 같은 함수를 이용하여 HTML문서의 각 요소(li, head같은 태그들)들을 접근하고 사용할 수 있도록 하는 객체 모델이다. 브라우저마다 DOM을 구현하는 방식은 다르기에 DOM이라는 것이 구체적으로 정해저 있는 언어나 모델과 같은 것은 아니다. 다만 웹페이지를 객체로 표현한 모델을 의미할 뿐이다.
 
