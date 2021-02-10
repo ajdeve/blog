@@ -26,7 +26,7 @@ comments: true
   - **서블릿은 JSP에서 컨텐츠와 비즈니스 로직을 분리**한다.   JSP가 텍스트 파일 구조인데 비해 서블릿은 자바 클래스 구조이다.
 
   
-출처: [https://ddo-o.tistory.com/77](https://ddo-o.tistory.com/77) [공순이의 블로그]
+출처: [https://ddo-o.tistory.com/77](https://ddo-o.tistory.com/77) [공순이 블로그]
   
 
 #### Servlet 돌아가는 과정 
