@@ -24,7 +24,7 @@ comments: false
 2. 마우스 오른쪽 클릭 → configure → maven project 
 3. 마우스 오른쪽 클릭 → configure → JPA project 
 4. pom.xml setup
-    - Dependency & Repository setup
+    - Dependency & Repository setup 
 
         ```
         <dependencies>
@@ -153,7 +153,7 @@ comments: false
     - Entity
         주의사항 
 
-        1. @Entity 애노테이션 선언
+        1. @Entity 애노테이션선언
         2. persistence.xml 에 등록 (persistence file 눌러 JPA synchronize 하여 class 연동하기)
         3. 각 컬럼별 이름, 사이즈 조절
         4. String 타입은 length로 사이즈 조절
