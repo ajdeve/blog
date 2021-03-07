@@ -125,7 +125,7 @@ public class ExampleSet {
 }
 ```
 
-##### - Class +, Array, new, +
+##### - Class +, Array, new, 
 
 ```java
 class D {
