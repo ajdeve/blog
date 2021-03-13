@@ -44,7 +44,7 @@ comments: true
 ![Servlet Life Cycle-Servlet and JSP tutorial- Edureka](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/01/2-2.png)
 
  1. 서블렛 로딩: 서버가 시작할때 모든 서블렛을 로딩한다. 
- 2. 서블렛 시작: init() 메소드로 서블렛이 시작
+ 2. 서블렛 시작: init() 메소드로 서블렛이 시작함
  ```java
  public void init() throws ServletException { // Initialization code like set up database etc.... }
  ```
